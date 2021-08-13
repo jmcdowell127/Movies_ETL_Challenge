@@ -8,11 +8,11 @@ After creating a movies and ratings dataset, Britta from Amazing Prime would lik
 
 ## Resources
 * Software
-  * Regular Expressions
   * Pandas
   * pgAdmin 4 version 5.2
   * PostgresSQL 13.4
   * Python 3.9.6
+  * Regular Expressions
   * SQLAlchemy 1.4.19
 
 ## Results
